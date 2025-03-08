@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoURI": "mongodb+srv://jihowo1336:wa0fQoJNGadKALXc@cluster0.cgrecp3.mongodb.net/nestjs-ecommerce?retryWrites=true&w=majority&appName=Cluster0"
+}
